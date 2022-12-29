@@ -3,7 +3,7 @@ import {TODO_LIST, ADD_TODO, DELETE_TODO} from "../constants/constants"
  const defaultState = [
     {
         id: new Date().valueOf(),
-        title: " Lets Learn React"
+        title: " Vani Lets Learn React"
     }
  ]
 
